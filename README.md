@@ -1,4 +1,4 @@
-## jsdig.sh
+## jsdig
 ### description
 This script is quick way to find secrets in client side javascript when pentesting a web application. It will:
 1) grab all .js links from a given list of web URLs
